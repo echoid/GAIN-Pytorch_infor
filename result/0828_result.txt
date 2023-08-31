@@ -1,0 +1,27 @@
+Use Complete Dataset
+
+banknote_0_kl_0_info_add | RMSE: 0.41581+-0.0277 | KS: 0.49909+-0.0337
+banknote_1_kl_0_info_add | RMSE: 0.28237+-0.01728 | KS: 0.38473+-0.11382
+banknote_10_kl_0_info_add | RMSE: 0.38934+-0.02503 | KS: 0.48291+-0.06182
+banknote_100_kl_0_info_add | RMSE: 0.27057+-0.00604 | KS: 0.45182+-0.09516
+banknote_0_kl_1_info_add | RMSE: 0.24914+-0.00866 | KS: 0.33182+-0.13445
+banknote_0_kl_10_info_add | RMSE: 0.18503+-0.01068 | KS: 0.18709+-0.08979
+banknote_0_kl_100_info_add | RMSE: 0.16124+-0.00997 | KS: 0.146+-0.05411
+banknote_10_kl_10_info_add | RMSE: 0.19822+-0.00663 | KS: 0.19855+-0.0923
+--------------------------------------------------------------------------
+Use Masked Dataset
+banknote_1_kl_0_info_add | RMSE: 0.41283+-0.03689 | KS: 0.43091+-0.09572
+banknote_10_kl_0_info_add | RMSE: 0.40075+-0.04117 | KS: 0.43255+-0.07785
+banknote_100_kl_0_info_add | RMSE: 0.41509+-0.01435 | KS: 0.50691+-0.0209
+banknote_0_kl_1_info_add | RMSE: 0.48607+-0.01673 | KS: 0.47291+-0.03648
+banknote_0_kl_10_info_add | RMSE: 0.54995+-0.01376 | KS: 0.48873+-0.03562
+banknote_10_kl_1_info_add | RMSE: 0.43912+-0.01181 | KS: 0.45545+-0.08491
+
+Sparse Dataset
+spam_0_kl_0_info_add | RMSE: 0.1397+-0.00288 | KS: 0.21536+-0.14271
+spam_1_kl_0_info_add | RMSE: 0.14314+-0.00368 | KS: 0.20478+-0.1397
+spam_10_kl_0_info_add | RMSE: 0.13965+-0.00319 | KS: 0.21221+-0.14114
+spam_100_kl_0_info_add | RMSE: 0.14137+-0.00117 | KS: 0.21308+-0.14458
+spam_0_kl_1_info_add | RMSE: 0.14085+-0.0036 | KS: 0.21455+-0.14634
+spam_0_kl_10_info_add | RMSE: 0.14116+-0.00456 | KS: 0.21363+-0.14328
+spam_0_kl_100_info_add | RMSE: 0.14168+-0.00277 | KS: 0.20201+-0.13679
